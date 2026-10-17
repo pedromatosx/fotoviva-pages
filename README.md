@@ -1,3 +1,3 @@
 # FotoViva Pages
 
-Versão pública estática de demonstração da FotoViva, gerada a partir do projeto privado. Não inclui backend, dados de clientes, pagamentos reais nem arquivos originais.
+Versão pública estática de demonstração da FotoViva. O código-fonte completo permanece privado. Checkout e upload reais não estão habilitados aqui.
